@@ -27,7 +27,7 @@ https.createServer(options, app).listen(8888)
 1. 创建空目录vue_shop_server
 2. npm init -y初始化node项目
 3. 安装express,compression
-4. ==修改上线环境的入口文件main-prod.js, 修改axios的基地址==
+4. **修改上线环境的入口文件main-prod.js, 修改axios的基地址**
 
 ```
 // 上线的域名要改成服务器域名或主机号
