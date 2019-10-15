@@ -36,6 +36,7 @@ axios.defaults.baseURL = 'https://www.kangjie.club:8888/api/private/v1/'
 否则会报如下错误
 
 ![image](http://ruankj.gitee.io/image_bed/yd/ERR_CONNECTION_REFUSED.png)
+
 5. 拷贝打包生成的dist目录到vue_shop_server
 6. 新建文件app.js
 ```
